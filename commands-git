@@ -1,0 +1,7 @@
+Pour cloner un réépositoire:
+- git clone https://github.com/cyril-dangelis/git-begins.git
+
+Les 3 commandes push sint les suivantes:
+- git add . (#Ajoute tout les éléments qui se trouvent dans le dossier)
+- git commit -m (#nomme la sauvegarde efféctuée)
+- git push (sert à envoyer les données locales de la machine sur github)
